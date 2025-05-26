@@ -1,0 +1,1 @@
+Good luck <@1342859159787274422> for competition, win 1st place ah . Do TTST proud

@@ -1,0 +1,1 @@
+@everyone Help 𝗔𝗶𝗿 𝗔𝘂𝗿𝗼𝗿𝗮. reach 500 members in 2 weeks, and as a thank you, **every plane will be just 25 Robux   for one day only!

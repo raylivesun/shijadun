@@ -1,0 +1,1 @@
+<@680533083807940643> I’d like to thank you for your hard work. I’m thanking you because I haven’t been in any good star wars group in a while. So once again I thank you for doing the first order!

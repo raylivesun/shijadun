@@ -1,0 +1,2 @@
+Want to buy roles to get rewards? Take advantage now, create a ticket and get yours.
+Mega offers: you can pay in Adot Me, Pet Sim 99, and mm2 with a huge discount. Hurry before the event ends. @everyone

@@ -1,0 +1,1 @@
+@everyone I will be afk for some time. i have work to do getting devs and im going on a trip irl. so yeah, cya

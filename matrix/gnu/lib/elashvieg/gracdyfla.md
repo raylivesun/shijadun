@@ -1,0 +1,1 @@
+To change it a bit, now put what you can give of these games: mm2, pet sim 99 and adot me and the best offer will be the one I will accept, you can say for example 5 huges and 100 robux / 1 Frost dragón In adot me @everyone

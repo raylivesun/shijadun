@@ -1,0 +1,1 @@
+@here <@&1247424832275222639> do you guys want to see a vietnamese jungle milsim type map
