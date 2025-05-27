@@ -1,0 +1,13 @@
+=========================================================================================================================================================================
+NetPerfMeter Statistics - Loopback: lo:
+NetPerfMeter Message Type  Messages   Messages Share (%)  Bytes (B)  Bytes Share (%)   First Seen (s)  Last Seen (s)  Interval (s)  Message Rate (Msg/s)  Byte Rate (B/s)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetPerfMeter Stop Measurement          0                   0
+NetPerfMeter Start Measurement         0                   0
+NetPerfMeter Results                   0                   0
+NetPerfMeter Remove Flow               0                   0
+NetPerfMeter Identify Flow             0                   0
+NetPerfMeter Data                      0                   0
+NetPerfMeter Add Flow                  0                   0
+NetPerfMeter Acknowledge               0                   0
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------

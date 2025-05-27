@@ -1,0 +1,5 @@
+"Protocol","Percent Packets","Packets","Percent Bytes","Bytes","Bits/s","End Packets","End Bytes","End Bits/s"
+"Frame",100,40,100,2640,1085.529476745549,0,0,0
+"Ethernet",100,40,21.21212121212121,560,230.263828400571,0,0,0
+"Internet Protocol Version 4",100,40,30.303030303030305,800,328.94832628653,0,0,0
+"Transmission Control Protocol",100,40,48.484848484848484,1280,526.317322058448,40,1280,526.317322058448

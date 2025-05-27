@@ -1,0 +1,2 @@
+"Address A","Address B","Packets","Bytes","Packets A → B","Bytes A → B","Packets B → A","Bytes B → A","Rel Start","Duration","Bits/s A → B","Bits/s B → A"
+"00:00:00:00:00:00","00:00:00:00:00:00",40,2640,40,2640,0,0,0,19.455943188,1085.5294855623526,0
