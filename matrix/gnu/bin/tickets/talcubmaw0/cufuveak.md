@@ -1,0 +1,2 @@
+<@&1224152925048143912> <:FireElement:1299511376942858261>🐜**ANT ISLAND STAGE DROP BUFF** <:FireElement:1299511376942858261>🐜
+- **Choy Jong En will be going away in Update 6.0,**  and so his drop rate has been **doubled** until he's removed! Get him while you can!

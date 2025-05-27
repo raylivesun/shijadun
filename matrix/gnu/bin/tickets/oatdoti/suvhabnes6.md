@@ -1,0 +1,1 @@
+@everyone Just to clear this up again, CRPT is not being continued as of currently, Any Staff or Mods are NOT to handle tickets, anyone looking for a partnership will not be answered, CRPT is not currently being up and running or continued, thankyou for your time.

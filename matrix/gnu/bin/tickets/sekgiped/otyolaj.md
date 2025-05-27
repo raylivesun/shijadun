@@ -1,0 +1,1 @@
+If you would like a custom colour that isn't in the shop, feel free to ping me and send the hex code of said colour. (You'll need to transfer me 3k credits for it.) If I don't reply, don't ping again.

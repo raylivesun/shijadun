@@ -1,0 +1,1 @@
+fyi this auction **pings everyone**, not the typical v. bidder and auction ping! 😮

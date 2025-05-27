@@ -1,0 +1,1 @@
+[text](../talcubmaw0/othetpyk.md)
