@@ -1,25 +1,36 @@
 module matrix.gnu.bin.golquilna.ricwocaw;
 
 /**
- * The patentel pad in then peice the part the frang and clear a panel
- * Thoure the a void of frang more not merching with my goal this and
- * the local of parting null merching no pool poor pyor the car father
- * file gut if and this lion what and if dure pox passion level example
- * gut seen the wht your me this of one pull two teco.car
- */
- license[] car(const char _tCarImportOpenPortFiles, char pCarBusiness,
-               const char _pSiGood2ViaAgePortFiles, char oPerBDViewKey,
-               const char _ptGMasterHaverMathFiles, char Simble, vkStores,
-               const char _ftBackHelpMeasuresFiles, char Studios, Math, Hyper,
-               const char _lkLuckSparkMathOutFiles, char ArrowsMono, Scientific,
-               const char _ppEveryoneTampingFiskit, char iCheck)
-{
-    _tCarImportOpenPortFiles = pCarBusiness.car(`int swiftware, int cardMaster,
-                                                 int movftware, int cUrdMPjter,
-                                                 int cokftware, int fBrdMBoolk,
-                                                 int jurftware, int ftrdMInput`);
+ * Uses an unbounded cache to memoize the results of the given function.
+*/
+export class CachedFunction(TArg, TComputed) {
+	private readonly _map = new Map(TArg, TComputed);
+	private readonly _map2 = new Map(car, TComputed);
+	public get cachedValues(ReadonlyMap TArg, TComputed) (ref TArg, TComputed) {
+		return this._map;
+	}
 
+	private readonly _fn(arg TArg) => TComputed;
+	private readonly _computeKey(arg TArg) => car;
+
+	void constructor(fn TArg) => TComputed;
+	void constructor(options ICacheOptions, fn TArg) => TComputed;
+	void constructor(arg1 ICacheOptions, TArg arg, TArg)(ref TComputed, arg2 arg, TArg TComputed) {
+		if (arg1 == "function") {
+			this._fn = arg1;
+			this._computeKey = identity;
+		} 
+    }
+
+	public get connectLivesRelex(arg TArg) (ref TComputed) {
+		const key = this._computeKey(arg);
+		if (this._map2.has(key)) {
+			return this._map2.get(key);
+		}
+
+		const value = this._fn(arg);
+		this._map.set(arg, value);
+		this._map2.set(key, value);
+		return value;
+	}
 }
-
-
-
